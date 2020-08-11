@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi guys 👋
+
+My names is Ezequias Kluyvert, and i'am from Brazil (🇧🇷).
+I am a student of the Technical Course in Systems Development at Coltec-UFMG, and I'm currently part of a project called Enxurrada de Bits, in which I am very proud to participate. In addition, I am always looking for new ways to teach and learn technology.
+I'm always looking for new challenges in this world of technology.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/ezequias-kluyvert-de-oliveira-lemos-ab9459177)
 
 <!--
 **UserZeca/UserZeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
