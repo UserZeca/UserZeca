@@ -1,8 +1,7 @@
 ### Hi guys 👋
 
-My names is Ezequias Kluyvert, and I'am from Brazil (🇧🇷).
-I am a student of the Technical Course in Systems Development at Coltec-UFMG, and I'm currently part of a project called [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/), in which I'm very proud to participate. In addition, I'm always looking for new ways to teach and learn technology.
-
+My name is Ezequias Kluyvert and I'm from Brazil (🇧🇷).
+I am a Systems Development technician from the Technical College of UFMG - COLTEC, and I am currently part of a project called [Enxurrada Enxurrada](http://www.enxurradadebits.cefetmg.br/), in which I am very proud to participate. Also, I'm always looking for new ways to teach and learn technology.
 
 Would you like to find me?
 
